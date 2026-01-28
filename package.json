@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/toManyCat/2025-backend-camp/issues"
   },
-  "homepage": "https://github.com/toManyCat/2025-backend-camp#readme"
+  "homepage": "https://github.com/toManyCat/2025-backend-camp#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
